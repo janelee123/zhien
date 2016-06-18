@@ -5,6 +5,8 @@ cd ..   :跳到上一层
 npm init :初始化package.json文件   npm init -y  就是默认的package.json文件
 npm install :安装依赖   npm install jquery --save 就会把依赖保存到package.json
 然后依赖会自动放到node_module下面
+npm run start  or node server.js 启动server.js文件
+
 
 # git相关
 1.git add ./[url]
