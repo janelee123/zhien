@@ -1,0 +1,27 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "practice item",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abell123456/zhien.git"
+  },
+  "keywords": [
+    "zhien",
+    "practice"
+  ],
+  "author": "zhien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abell123456/zhien/issues"
+  },
+  "homepage": "https://github.com/abell123456/zhien#readme",
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "react": "^15.1.0"
+  }
+}
